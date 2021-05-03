@@ -18,13 +18,13 @@
 	very little affect. While the data proposes that the best time to launch a campaign is between April and July, clearly there are other factors that 
 	that determine success or failure given that failed campaigns show no change related to this time frame. It would be more precise to say that successful campaigns
 	can benefit additionally by opening between April and July.
-	![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_Based_on_Launch_Date_png.png)
+![Theater Outcomes Based on Launch Date](resources/Theater_Outcomes_Based_on_Launch_Date_png.png)
 	
 ### Analysis of Outcomes Based on Goals
 	Analysis of Plays based on funding goals supports the idea that smaller goals lead to more outcomes of success.  This aligns with what we might expect given that smaller goals
 	tend to be more manageable and, therefore, achievable.  This trend can be seen in the chart below with the exception of the 35000 to 45000 range which are likely outliers.
 	
-	![Outcomes vs Goals](resources/Play_Outcomes_Based_on_Goals.png)
+![Outcomes vs Goals](resources/Play_Outcomes_Based_on_Goals.png)
 
 ### Challenges and Difficulties Encountered
 	Discovering the correct formula to pull successful outcomes over proved difficult.  The rest fell into place after that.
